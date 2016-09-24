@@ -21,3 +21,6 @@ https://developer.android.com/guide/topics/ui/ui-events.html#q=joystick
 https://developer.android.com/reference/android/view/MotionEvent.html
 https://source.android.com/devices/input/touch-devices.html
 https://developer.android.com/reference/android/view/InputDevice.html
+
+the answer=  requires a lil modding
+http://www.akexorcist.com/2012/10/android-code-joystick-controller.html
